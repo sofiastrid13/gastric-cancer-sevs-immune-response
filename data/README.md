@@ -77,6 +77,15 @@ This repository does not contain:
 Raw clinical data subject to ethical, institutional, or consent-related
 restrictions are not publicly available.
 
+## License
+
+The datasets and metadata in this directory are licensed under the Creative
+Commons Attribution 4.0 International License (CC BY 4.0), as described in the
+`LICENSE-DATA` file located in the repository root.
+
+Users must provide appropriate attribution, cite the repository and associated
+publication, and indicate whether changes were made.
+
 ## Available Files
 
 | File | Description | Format |
@@ -86,12 +95,3 @@ restrictions are not publicly available.
 | `processed/cytokine_concentrations.csv` | Cytokine concentrations by group and time point | CSV |
 | `processed/immune_checkpoints.csv` | Soluble immune checkpoint concentrations | CSV |
 | `metadata/sample_metadata.csv` | De-identified sample and experimental metadata | CSV |
-
-## License
-
-The datasets and metadata in this directory are licensed under the Creative
-Commons Attribution 4.0 International License (CC BY 4.0), as described in the
-`LICENSE-DATA` file located in the repository root.
-
-Users must provide appropriate attribution, cite the repository and associated
-publication, and indicate whether changes were made.
