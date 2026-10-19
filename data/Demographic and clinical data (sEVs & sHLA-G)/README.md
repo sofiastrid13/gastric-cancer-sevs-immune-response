@@ -19,9 +19,9 @@ The files provide clinical and clinicopathological variables alongside sHLA-G le
 
 | File | Description | Data records |
 |---|---|---:|
-| [`HEALTHY(1).xlsx`](HEALTHY(1).xlsx) | Healthy-control sample characteristics and measurements. | 5 |
-| [`CHRONIC_GASTRITIS(1).xlsx`](CHRONIC_GASTRITIS(1).xlsx) | Chronic-gastritis sample characteristics, benign pathology and measurements. | 20 |
-| [`GASTRIC_CANCER(1).xlsx`](GASTRIC_CANCER(1).xlsx) | Gastric-cancer clinicopathological characteristics, including tumor stage and associated measurements. | 20 |
+| [`HEALTHY(1).xlsx`](HEALTHY.xlsx) | Healthy-control sample characteristics and measurements. | 5 |
+| [`CHRONIC_GASTRITIS(1).xlsx`](CHRONIC_GASTRITIS.xlsx) | Chronic-gastritis sample characteristics, benign pathology and measurements. | 20 |
+| [`GASTRIC_CANCER(1).xlsx`](GASTRIC_CANCER.xlsx) | Gastric-cancer clinicopathological characteristics, including tumor stage and associated measurements. | 20 |
 | [`TOTAL_TABLE.xlsx`](TOTAL_TABLE.xlsx) | Consolidated dataset containing all three clinical groups. | 45 |
 
 **Note:** The group-specific spreadsheets and consolidated file do not have identical column structures. The healthy-control workbook also contains blank formatted rows; only five rows contain sample records.
