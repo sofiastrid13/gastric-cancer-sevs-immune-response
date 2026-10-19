@@ -6,8 +6,8 @@ This folder contains experimental data and supporting records from protein analy
 
 | File | Description |
 | --- | --- |
-| `BCA(1).xlsx` | Protein quantification data obtained using the bicinchoninic acid (BCA) assay. The **BCA** worksheet organizes measurements by clinical group and sample, including fraction-level replicate values. The **BSA Standard Curve** worksheet provides bovine serum albumin (BSA) standards, absorbance replicates, and calibration information used for protein quantification. |
-| `DOT BLOT(1).xlsx` | Sample-level dot blot records for the detection of sEV-associated tetraspanin markers, including CD63 and CD9, with columns for results. |
+| `BCA.xlsx` | Protein quantification data obtained using the bicinchoninic acid (BCA) assay. The **BCA** worksheet organizes measurements by clinical group and sample, including fraction-level replicate values. The **BSA Standard Curve** worksheet provides bovine serum albumin (BSA) standards, absorbance replicates, and calibration information used for protein quantification. |
+| `DOT BLOT.xlsx` | Sample-level dot blot records for the detection of sEV-associated tetraspanin markers, including CD63 and CD9, with columns for results. |
 
 ## Purpose
 
