@@ -14,7 +14,7 @@ This folder contains two Excel workbooks with experimental results exported from
 Each workbook contains the following worksheets:
 
 - **`Experiment`** — Assay/run information and standard-curve fitting or detection/quantification parameters.
-- **`predicted_conc`** — Estimated analyte concentrations, arranged by the sample identifiers and available experimental metadata (e.g., replicate, time, and/or activation condition).
+- **`predicted_conc`** — Estimated analyte concentrations, arranged by the sample identifiers and available experimental metadata (e.g., replicate, time, and/or stimulation condition).
 - **`MFI`** — Median fluorescence intensity measurements.
 - **`Counts`** — Bead/event counts associated with the reported measurements.
 - **`CV (MFI)`** — Coefficients of variation for fluorescence intensity, when available.
