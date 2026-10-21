@@ -8,8 +8,8 @@ This folder contains two Excel workbooks with assay output from the **LEGENDplex
 
 | File | Description |
 | --- | --- |
-| [`Immune_Checkpoint_Panel_English(1).xlsx`](Immune_Checkpoint_Panel_English%281%29.xlsx) | Data for 12 soluble immune checkpoint–related markers. |
-| [`Inflammation_Panel_English(1).xlsx`](Inflammation_Panel_English%281%29.xlsx) | Data for 13 inflammation-related analytes. |
+| [`Immune_Checkpoint_Panel.xlsx`](Immune_Checkpoint_Panel.xlsx) | Data for 12 soluble immune checkpoint–related markers. |
+| [`Inflammation_Panel.xlsx`](Inflammation_Panel.xlsx) | Data for 13 inflammation-related analytes. |
 
 ### Immune checkpoint panel (12-plex)
 
