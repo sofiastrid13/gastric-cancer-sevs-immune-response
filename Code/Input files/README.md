@@ -43,8 +43,6 @@ Empty cells and `NA`, `ND`, `No_data` are read as missing values.
 
 Values are in pg/mL. Replicates are technical replicates, not independent donors. `Time = 0` in `Checkpoints` holds the sEV measurements.
 
-> **Note on labels.** In this workbook the group labels are in the original coding (`CS`, `GA C`, `CG I`–`CG IV`, `Cel A`, `Cel I`, `E …` for sEVs) and the stimulation column is named `Activation`. `Processed_data_Checkpoints_and_Cytokines.py` expects the labels `HC`, `CG`, `GC I`–`GC IV`, `SC`, `UC`, `sEVs <group>` and a column named `Stimulation`. Recode the labels (or adapt the script) before running it on this file.
-
 ## `Processed_Data_Checkpoins_and_Cytokines 1.xlsx`
 
 Same layout as the output of `Processed_data_Checkpoints_and_Cytokines.py` (sheets `Checkpoints` and `Cytokines`). See `Statical analysis/README.md` for the column definitions.
